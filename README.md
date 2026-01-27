@@ -37,8 +37,13 @@
 
 ## 📌 Overview
 
-Nexus-Talent-HR is a modern HR and Talent Management platform designed to help organizations manage hiring, candidates, and HR operations seamlessly.
+Nexus-Talent-HR is a modern, full-stack HR and Talent Management platform designed to help organizations efficiently manage recruitment, candidates, and core HR operations through a clean and intuitive interface.
 
+The platform provides an end-to-end solution for handling job postings, candidate applications, and administrative workflows. With a dedicated admin dashboard, HR teams can create and manage job listings, review applicant data, and maintain structured hiring processes with ease.
+
+Built using modern web technologies, Nexus-Talent-HR focuses on performance, scalability, and usability. The frontend delivers a responsive and visually appealing user experience, while the backend ensures secure and reliable API communication for managing data and business logic.
+
+This project demonstrates real-world full-stack development practices, including component-based UI design, RESTful APIs, and clean separation of frontend and backend responsibilities. It is ideal for showcasing practical HR system workflows and modern web application architecture.
 ---
 
 ## ⚙️ Tech Stack
