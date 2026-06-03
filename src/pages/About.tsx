@@ -3,7 +3,7 @@ import { Users, Globe, Award, TrendingUp, Building2, Heart, Lightbulb, Target } 
 
 const About: React.FC = () => {
   const stats = [
-    { icon: Users, label: 'Candidates Placed', value: '2,500+', color: 'text-blue-600' },
+    { icon: Users, label: 'Candidates Placed', value: '2,500+'  color: 'text-blue-600' },
     { icon: Building2, label: 'Client Companies', value: '150+', color: 'text-green-600' },
     { icon: Globe, label: 'Industries Served', value: '12', color: 'text-purple-600' },
     { icon: Award, label: 'Years of Excellence', value: '15+', color: 'text-amber-600' }
